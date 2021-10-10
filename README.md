@@ -4,7 +4,7 @@
 
 ### DEMO
 
-**[https://blogging-web0.herokuapp.com/](https://blogging-web0.herokuapp.com/)**
+**[https://sptung-blogging.herokuapp.com/](https://sptung-blogging.herokuapp.com/)**
 
 - Trang chủ
   ![./images/00.png](./images/00.png)
