@@ -4,7 +4,7 @@
 
 ### DEMO
 
-**[https://sptung-blogging.herokuapp.com/](https://sptung-blogging.herokuapp.com/)**
+**[https://sp-blog.up.railway.app/](https://sp-blog.up.railway.app/)**
 
 - Trang chủ
   ![./images/00.png](./images/00.png)
